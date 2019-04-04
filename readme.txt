@@ -11,6 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Disable WooCommerce Marketplace suggestions, ads and connect to woocommerce.com nags.
 
+== Description ==
 
 ## Remove WooCommerce 3.6 Extension Ads
 
