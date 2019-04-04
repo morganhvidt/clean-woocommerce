@@ -14,20 +14,23 @@ Disable WooCommerce Marketplace suggestions, ads and connect to woocommerce.com 
 
 ## Remove WooCommerce 3.6 Extension Ads
 
-This plugin disables the WooCommerce Marketplace suggestions. The suggestions appears in the admin area. They can be located in-between your product list and on product edit pages These might be useful to newcomers though they can be a distraction to everyone else.
+This plugin disables the WooCommerce Marketplace suggestions. The suggestions appear in the admin area. They can be located in-between your product list and on product edit pages. These might be useful to newcomers, but they can be a distraction to everyone else.
 
 ## Remove the "Connect your store to WooCommerce.com to receive extensions updates and support."
 
-This plugin also disables the nag which prompts you to connect to WooCommerce.com
+This plugin also disables the admin nag which prompts you to connect to WooCommerce.com
 
+## Does this work on 3.5?
+
+Yes, you can active Clean WooCommerce before upgrading to WooCommerce 3.6. The plugin will still remove the "Connect to woocommerce.com" admin nag.
 
 ## Set and forget
 
-Everything is disabled automatically when the plugin is activated. Deactivating will bring back the nags.
+Everything is disabled automatically when the plugin is activated. Deactivating will bring back the admin nags.
 
 ## Why does this plugin exist?
 
-I personally like my WordPress sites to be as clean and ad free as possible.
+Ads can be distracting and take away from the experience of running an online business. I personally like my WordPress sites to be as clean and advertisement free as possible.
 
 == Installation ==
 
