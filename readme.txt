@@ -45,7 +45,7 @@ That’s it!
 == Screenshots ==
 
 1. The in-line extension suggestion will be removed
-2. Suggestions tab for WooCommerce extensions will be removed
+2. Suggestions tab in product data for WooCommerce extensions will be removed
 
 == Changelog ==
 

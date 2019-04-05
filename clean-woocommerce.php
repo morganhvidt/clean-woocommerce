@@ -14,5 +14,5 @@
 
 // Remove the sugesstions
 add_filter( 'woocommerce_allow_marketplace_suggestions', '__return_false' );
-// remove 'connect your store to WooCommerce.com'
+// Remove 'connect your store to WooCommerce.com'
 add_filter( 'woocommerce_helper_suppress_admin_notices', '__return_true' );
