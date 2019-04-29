@@ -3,7 +3,7 @@
  * Plugin Name: Clean WooCommerce
  * Plugin URI:  https://morganhvidt.com/
  * Description: Removes WoCommerce extension ads, suggestions and other nags. Keep it clean.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Morgan Hvidt
  * Author URI:  https://morganhvidt.com
  * License:     GPL2

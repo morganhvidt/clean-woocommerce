@@ -1,9 +1,9 @@
-=== Clean WooCommerce - Disable WooCommerce Advertising ===
+=== Clean WooCommerce - Disable suggestions & 'connect to woocommerce.com' ===
 Contributors: morganhvidt
-Donate link: http://morganhvidt.com/donate
-Tags: remove nag, woocommerce marketplace, woocommerce ads, woocommerce nags, woocommerce suggestions, marketplace suggestions
+Donate link: https://www.paypal.me/morganhvidt/
+Tags: remove nag, connect to woocommerce, woocommerce marketplace, woocommerce ads, woocommerce nags, woocommerce suggestions, marketplace suggestions
 Requires at least: 5.0
-Tested up to: 5.1
+Tested up to: 5.2
 Requires PHP: 5.2.4
 Stable tag: trunk
 License: GPLv2 or later
@@ -48,6 +48,10 @@ That’s it!
 2. Suggestions tab in product data for WooCommerce extensions will be removed
 
 == Changelog ==
+
+
+= 1.0.1 =
+Tested with WordPress 5.2
 
 = 1.0.0 =
 Initial release
