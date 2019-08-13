@@ -49,6 +49,8 @@ That’s it!
 
 == Changelog ==
 
+= 1.0.2 =
+Tested with WooCommerce 3.7
 
 = 1.0.1 =
 Tested with WordPress 5.2
